@@ -1,7 +1,11 @@
 body {
   display: inline-block;
   margin: 0;
-  background-color: lightyellow;
+  background-color: hsl(228, 56%, 26%);
+}
+
+:not(svg) {
+    transform-origin: 0px 0px;
 }
 
 .backimg {
@@ -26,7 +30,7 @@ body {
   height: 80%;
   display: inline-block;
   border-style: hidden;
-  background-color: red;
+  background-color: hsl(228, 56%, 46%);
   border-radius: 5%;
   border-top-right-radius: 35%;
 }
@@ -42,35 +46,38 @@ body {
 
 .dicon {
   border-style: solid;
-  border-width: medium;
-  border-color: white;
+  background-color: hsl(228, 56%, 36%);
+  border-color: hsl(228, 56%, 36%);
   border-width: 8px 10px 8px 10px;
   border-radius: 15%;
   margin: 10px 5px 10px 10px;
   display: inline-block;
   position: relative;
+
+
 }
 
 .ficon {
   border-style: solid;
-  border-width: medium;
-  border-color: white;
+  background-color: hsl(228, 56%, 36%);
+  border-color: hsl(228, 56%, 36%);
   border-width: 8px 10px 8px 10px;
   border-radius: 15%;
   margin: 10px 5px 10px 10px;
   display: inline-block;
   position: relative;
+
 }
 
 .cicon {
   border-style: solid;
-  border-width: medium;
-  border-color: white;
+  background-color: hsl(228, 56%, 36%);
+  border-color: hsl(228, 56%, 36%);
   border-width: 8px 10px 8px 10px;
   border-radius: 15%;
   margin: 10px 5px 10px 10px;
   display: inline-block;
-  position: relative;
+
 }
 
 /*****************************************************************************************************************************************************/
@@ -83,10 +90,11 @@ body {
   display: inline-block;
   position: absolute;
   border-style: hidden;
-  background-color: red;
+  background-color: hsl(228, 56%, 46%);
   border-radius: 6%;
 }
-.data{
+
+.data {
   text-align: center;
   padding: 10% 5%;
 }
