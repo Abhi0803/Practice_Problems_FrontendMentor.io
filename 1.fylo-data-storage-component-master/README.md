@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo data storage component
 
-![Design preview for the Fylo data storage component coding challenge](/design/desktop-preview.jpg)
+![Design preview for the Fylo data storage component coding challenge](https://github.com/Abhi0803/Practice_Problems_FrontendMentor.io/blob/master/1.fylo-data-storage-component-master/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
